@@ -1,11 +1,11 @@
-import Home from "./layouts/home/Home"
+import Home from './layouts/home/Home';
 
 function App() {
   return (
     <>
-      <Home/>
+      <Home />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
